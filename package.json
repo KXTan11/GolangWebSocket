@@ -1,0 +1,21 @@
+{
+  "name": "gobeyondquill",
+  "version": "1.0.0",
+  "description": "Go version of qtq",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Go",
+    "qtq",
+    "lite",
+    "gin",
+    "gonic"
+  ],
+  "author": "KX",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
